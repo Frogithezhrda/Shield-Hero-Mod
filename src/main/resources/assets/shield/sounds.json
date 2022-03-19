@@ -1,0 +1,18 @@
+ {
+  "item.shield_hero_op_1": {
+    "sounds": [
+      {
+        "name": "shield:shield_hero_op_1_disc",
+        "stream": true
+      }
+    ]
+  },
+    "item.shield_hero_op_2": {
+    "sounds": [
+      {
+        "name": "shield:shield_hero_op_2_disc",
+        "stream": true
+      }
+    ]
+  }
+}

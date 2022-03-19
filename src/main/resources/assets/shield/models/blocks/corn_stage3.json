@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "ultramagic:blocks/corn_stage3"
+  }
+}

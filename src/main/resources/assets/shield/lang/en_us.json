@@ -1,0 +1,19 @@
+{
+	"effect.shield.bite":"Bite",
+    "item.shield.legend_shield":"The Legendary Shield",
+    "item.shield.legend_shield_rage":"Rage Shield",
+    "item.shield.legend_shield_book":"Book Shield",
+        "item.shield.book":"Book",
+       "item.shield.legend_shield_light_metal":"Light Metal Shield",
+       "item.shield.legend_shield_pickax":"Pickax Shield",
+       "item.shield.legend_shield_two_headed_dog":"Two Headed Dog Shield",
+       "item.shield.legend_spear":"The Legendary Spear",
+           "item.shield.shield_hero_op_1_disc":"Shield Hero Op 1",
+                      "item.shield.shield_hero_op_1_disc.desc":"Putting The Song...",
+                                 "item.shield.shield_hero_op_2_disc.desc":"Putting The Song...",
+           
+                  "item.shield.shield_hero_op_2_disc":"Shield Hero Op 2"
+       
+   
+    
+}
